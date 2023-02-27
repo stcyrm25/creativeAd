@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"CachedBmp_1":
+{
+	"frame": {"x":1256,"y":1597,"w":439,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":439,"h":155},
+	"sourceSize": {"w":439,"h":155}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":686,"y":1597,"w":568,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":568,"h":155},
+	"sourceSize": {"w":568,"h":155}
+},
+"dock":
+{
+	"frame": {"x":0,"y":1350,"w":684,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":684,"h":535},
+	"sourceSize": {"w":684,"h":535}
+},
+"guywfishpngcopy":
+{
+	"frame": {"x":0,"y":0,"w":1700,"h":1348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1700,"h":1348},
+	"sourceSize": {"w":1700,"h":1348}
+},
+"logo":
+{
+	"frame": {"x":686,"y":1350,"w":1024,"h":245},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":245},
+	"sourceSize": {"w":1024,"h":245}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.1.70",
+	"image": "fishad_atlas_4.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

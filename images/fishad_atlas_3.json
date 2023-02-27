@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"fishingrod":
+{
+	"frame": {"x":0,"y":0,"w":2000,"h":2000},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2000,"h":2000},
+	"sourceSize": {"w":2000,"h":2000}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.1.70",
+	"image": "fishad_atlas_3.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
